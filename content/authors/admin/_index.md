@@ -1,39 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yang Bai
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student at UMD
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Maryland, College Park
+  url: https://www.umd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. student at Department of Computer Science in <a href="https://www.cs.umd.edu/">University of Maryland College Park</a>, advised by <a href="https://www.cs.umd.edu/~nirupam/">Prof. Nirupam Roy</a>. My research interests are  <b>Mobile Computing</b>, <b>Wireless Communication</b>, <b>Sensing</b>, and <b>Machine Learning</b>, especially applicating these techniques on <b>healthcare</b> and <b>IoT</b>. Before becoming a Ph.D. student at UMD, I graduated from <a href="http://www.winlab.rutgers.edu/">WINLAB, Rutgers University</a> and <a href="https://www.stevens.edu/schaefer-school-engineering-science/departments/electrical-computer-engineering">Stevens Institute of Technology</a> with MS in Electrical and Computer Engineering. I got my BS in <a href="https://www.dlmu.edu.cn/">Dalian Maritime University</a>. I also interned at <a href="https://www.aerodefense.tech/">AeroDefense</a> before becoming a Ph.D. student.Outside research, I am an amateur table tennis player.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mobile Computing
+- Wireless Communication
+- Sensing
+- Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD student in Computer Science
+    institution: University of Maryland, College Park
+    year: 2021 - Present
+  - course: MS in Electrical and Computer Engineeering
+    institution: Rutgers University
+    year: 2020
+  - course: MS in Electrical Engineering
+    institution: Stevens Institute of Technology
+    year: 2018
+  - course: BS in Electrical Engineering and Automation
+    institution: Dalian Maritime University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +47,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=xd0kq0sAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yangbai8
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yang-bai-26aa15126/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
