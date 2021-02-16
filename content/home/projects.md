@@ -46,3 +46,16 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+**Project: Acoustic-based Sensing and Applications**
+* Reviewed acoustic-based sensing in terms of hardware infrastructure, technical approaches, and its broad applications in recognition \& tracking, localization \& navigation, security \& privacy, and communication
+* Discussed future research directions and limitations of the acoustic-based sensing
+
+**Project: Inaudible High-throughput Acoustic Communication**
+* Designed an acoustic communication system, which achieves high-throughput and inaudibility simultaneously, and the highest throughput we achieve is 12 times higher than the state-of-the-art acoustic communication systems
+* Modeled the non-linearity of the mobile device’s inbuilt microphone and use Orthogonal Frequency Division Multiplexing (OFDM) technique together with the non-linearity model to transmit data bits over multiple orthogonal channels with an ultrasound frequency carrier
+* Proposed an algorithm to eliminate the unrelated residual signals induced by Amplitude Modulation (AM)
+
+**Project: Monitoring Movement Dynamics of Robot Cars and Drones**
+* Proposed a smart system that can monitor the movement dynamics of carrying platforms (i.e., robot cars and drones) leveraging the inertial sensors of the attached smartphone
+* Monitored the movement dynamics of carrying platforms in real time, such as moving speed, displacement, and position
+* Achieved real-time movement dynamics sharing with the backend server through WiFi connection
