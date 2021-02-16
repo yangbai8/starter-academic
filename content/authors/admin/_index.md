@@ -14,7 +14,7 @@ organizations:
   url: https://www.umd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student at Department of Computer Science in <a href="https://www.cs.umd.edu/">University of Maryland College Park</a>, advised by <a href="https://www.cs.umd.edu/~nirupam/">Prof. Nirupam Roy</a>. My research interests are  <b>Mobile Computing</b>, <b>Wireless Communication</b>, <b>Sensing</b>, and <b>Machine Learning</b>, especially applicating these techniques on <b>healthcare</b> and <b>IoT</b>. Before becoming a Ph.D. student at UMD, I graduated from <a href="http://www.winlab.rutgers.edu/">WINLAB, Rutgers University</a> and <a href="https://www.stevens.edu/schaefer-school-engineering-science/departments/electrical-computer-engineering">Stevens Institute of Technology</a> with MS in Electrical and Computer Engineering. I got my BS in <a href="https://www.dlmu.edu.cn/">Dalian Maritime University</a>. I also interned at <a href="https://www.aerodefense.tech/">AeroDefense</a> before becoming a Ph.D. student.Outside research, I am an amateur table tennis player.
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -70,9 +70,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a Ph.D. student at Department of Computer Science in <a href="https://www.cs.umd.edu/">University of Maryland College Park</a>, advised by <a href="https://www.cs.umd.edu/~nirupam/">Prof. Nirupam Roy</a>. My research interests are  <b>Mobile Computing</b>, <b>Wireless Communication</b>, <b>Sensing</b>, and <b>Machine Learning</b>, especially applicating these techniques on <b>healthcare</b> and <b>IoT</b>. Before becoming a Ph.D. student at UMD, I graduated from <a href="http://www.winlab.rutgers.edu/">WINLAB, Rutgers University</a> and <a href="https://www.stevens.edu/schaefer-school-engineering-science/departments/electrical-computer-engineering">Stevens Institute of Technology</a> with MS in Electrical and Computer Engineering. I got my BS in <a href="https://www.dlmu.edu.cn/">Dalian Maritime University</a>. I also interned at <a href="https://www.aerodefense.tech/">AeroDefense</a> before becoming a Ph.D. student.Outside research, I am an amateur table tennis player.
