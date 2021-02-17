@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yang Bai
+avatar_filename: avatar.png
 
 # Is this the primary user of the site?
 superuser: true
