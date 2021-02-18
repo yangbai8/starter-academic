@@ -1,35 +1,41 @@
 ---
-widget: pages
-headless: true  # This file represents a page section.
+# An instance of the Featured widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 65
+
+title: Publications
+subtitle: ""
 
 content:
-  # Page type to display. E.g. post, event, or publication.
-  page_type: post
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
-  # Optionally filter posts by a taxonomy term.
+  # Page type to display. E.g. post, talk, publication...
+  page_type: publication
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Filter on criteria
   filters:
-    tag: false
-    category: false
-    publication_type: false
-    exclude_featured: false
-    exclude_past: false
-    exclude_future: false
+    author: ""
+    category: ""
+    publication_type: ""
+    tag: ""
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
 design:
-  # Toggle between the various page layout types.
+  # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
-  #   4 = Citation (publication only)  
-  view: 2
+  #   4 = Citation (publication only)
+  view: 3
 ---
-* Best Poster Award Runner-up, ACM MobiCom, 2019  {{< figure library="true" src="mobicom2.jpeg" title=""  width="250px" style="float: right">}} 
+
+* {{Best Poster Award Runner-up, ACM MobiCom, 2019 < figure library="true" src="mobicom2.jpeg" title=""  width="250px" style="float: right">}} 
 * Winner of Student Research Competition, ACM MobiCom, 2019 {{< figure library="true" src="mobicom1.jpeg" title=""  width="250px" style="float: right">}}
 * N2Women Travel Grant, ACM MobiCom, 2019  {{< figure library="true" src="mobicom3.jpeg" title=""  width="250px" style="float: right">}}
 * iREDEFINE Professional Development Award, iREDEFINE Workshop of Electrical and Computer Engineering Department Heads Association, 2020
