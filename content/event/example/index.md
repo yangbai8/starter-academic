@@ -6,7 +6,7 @@ title: Best Poster Award Runner-up, ACM MobiCom, 2019
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: "2030-06-01T13:00:00Z"
+date: "2019-10-25"
 # date_end: "2030-06-01T15:00:00Z"
 # all_day: false
 
@@ -17,7 +17,7 @@ title: Best Poster Award Runner-up, ACM MobiCom, 2019
 # tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+# featured: false
 
 # image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -29,15 +29,15 @@ featured: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+# projects:
+# - example
 ---
 
 
