@@ -18,9 +18,9 @@ subtitle:
 design:
   view: "4"
 ---
-* Best Poster Award Runner-up, ACM MobiCom, 2019  {{< figure library="true" src="mobicom2.jpeg" title=""  width="50px" align="right">}}
-* Winner of Student Research Competition, ACM MobiCom, 2019  {{< figure library="true" src="mobicom1.jpeg" title=""  width="50px" align="right">}}
-* N2Women Travel Grant, ACM MobiCom, 2019  {{< figure library="true" src="mobicom3.jpeg" title=""  width="50px" align="right">}}
+* Best Poster Award Runner-up, ACM MobiCom, 2019  {{< figure library="true" src="mobicom2.jpeg" title=""  width="250px" style="float: right">}}
+* Winner of Student Research Competition, ACM MobiCom, 2019  {{< figure library="true" src="mobicom1.jpeg" title=""  width="250px" style="float: right">}}
+* N2Women Travel Grant, ACM MobiCom, 2019  {{< figure library="true" src="mobicom3.jpeg" title=""  width="250px" style="float: right">}}
 * iREDEFINE Professional Development Award, iREDEFINE Workshop of Electrical and Computer Engineering Department Heads Association, 2020
 
 
