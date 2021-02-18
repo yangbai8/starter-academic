@@ -39,6 +39,9 @@ education:
   - course: BS in Electrical Engineering and Automation
     institution: Dalian Maritime University
     year: 2016
+contact information:
+- Email: yangbai8@umd.edu
+- Office: IRB 2116
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,4 +74,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Ph.D. student at Department of Computer Science in <a href="https://www.cs.umd.edu/">University of Maryland College Park</a>, advised by <a href="https://www.cs.umd.edu/~nirupam/">Prof. Nirupam Roy</a>. My research interests are  <b>Mobile Computing</b>, <b>Wireless Communication</b>, <b>Sensing</b>, and <b>Machine Learning</b>, especially applicating these techniques on <b>healthcare</b> and <b>IoT</b>. Before becoming a Ph.D. student at UMD, I graduated from <a href="http://www.winlab.rutgers.edu/">WINLAB, Rutgers University</a> and <a href="https://www.stevens.edu/schaefer-school-engineering-science/departments/electrical-computer-engineering">Stevens Institute of Technology</a> with MS in Electrical and Computer Engineering. I got my BS in <a href="https://www.dlmu.edu.cn/">Dalian Maritime University</a>. I also interned at <a href="https://www.aerodefense.tech/">AeroDefense</a> before becoming a Ph.D. student.Outside research, I am an amateur table tennis player.
+I am a Ph.D. student at Department of Computer Science in <a href="https://www.cs.umd.edu/">University of Maryland College Park</a>, advised by <a href="https://www.cs.umd.edu/~nirupam/">Prof. Nirupam Roy</a>. My research interests are  <b>Mobile Computing</b>, <b>Wireless Communication</b>, <b>Sensing</b>, and <b>Machine Learning</b>, especially applicating these techniques on <b>healthcare</b> and <b>IoT</b>. Before becoming a Ph.D. student at UMD, I graduated from <a href="http://www.winlab.rutgers.edu/">WINLAB, Rutgers University</a> and <a href="https://www.stevens.edu/schaefer-school-engineering-science/departments/electrical-computer-engineering">Stevens Institute of Technology</a> with MS in Electrical and Computer Engineering. I got my BS in <a href="https://www.dlmu.edu.cn/">Dalian Maritime University</a>. I also interned at <a href="https://www.aerodefense.tech/">AeroDefense</a> in 2018 Spring. Outside research, I am an amateur table tennis player.
