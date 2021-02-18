@@ -1,1 +1,1 @@
-* ##Winner of Student Research Competition, ACM MobiCom, 2019
+* ## Winner of Student Research Competition, ACM MobiCom, 2019
