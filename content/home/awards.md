@@ -41,7 +41,10 @@ design:
 
 
 
-
+<p style="width: 250px;">
+<img src="mobicom2.jpeg" style="float: right;" />
+This is some text
+</p>
 
 
 
