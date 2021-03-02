@@ -7,7 +7,7 @@ avatar_filename: avatar.png
 superuser: true
 
 # Role/position/tagline
-role: icon: envelope yangbai8@umd.edu
+role: yangbai8@umd.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
