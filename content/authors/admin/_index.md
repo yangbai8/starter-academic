@@ -7,9 +7,7 @@ avatar_filename: avatar.png
 superuser: true
 
 # Role/position/tagline
-role: 
-- Email: yangbai8@umd.edu
-- Office: IRB 2116
+role: icon: envelope yangbai8@umd.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,10 +19,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Mobile Computing
-- Wireless Communication
-- Sensing
-- Machine Learning
+- Edge Computing
+- Spatial Signal Processing
+- Sensory Intelligence
+- Embedded Learning
+- Power-aware Computing
 
 # Education to show in About widget
 education:
@@ -76,4 +75,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Ph.D. student at Department of Computer Science in <a href="https://www.cs.umd.edu/">University of Maryland College Park</a>, advised by <a href="https://www.cs.umd.edu/~nirupam/">Prof. Nirupam Roy</a>. My research interests are  <b>Mobile Computing</b>, <b>Wireless Communication</b>, <b>Sensing</b>, and <b>Machine Learning</b>, especially applicating these techniques on <b>healthcare</b> and <b>IoT</b>. Before becoming a Ph.D. student at UMD, I graduated from <a href="http://www.winlab.rutgers.edu/">WINLAB, Rutgers University</a> and <a href="https://www.stevens.edu/schaefer-school-engineering-science/departments/electrical-computer-engineering">Stevens Institute of Technology</a> with MS in Electrical and Computer Engineering. I got my BS in <a href="https://www.dlmu.edu.cn/">Dalian Maritime University</a>. I also interned at <a href="https://www.aerodefense.tech/">AeroDefense</a> in 2018 Spring. Outside research, I am an amateur table tennis player.
+I am a Ph.D. student at Department of Computer Science in <a href="https://www.cs.umd.edu/">University of Maryland College Park</a>, advised by <a href="https://www.cs.umd.edu/~nirupam/">Prof. Nirupam Roy</a>. My research interests are  <b>Edge Computing</b>, <b>Spatial Signal Processing</b>, <b>Sensory Intelligence</b>, <b>Embedded Learning</b>, and <b>Power-aware Computing</b>, especially applicating these techniques on <b>healthcare</b> and <b>IoT</b>. Before becoming a Ph.D. student at UMD, I graduated from <a href="http://www.winlab.rutgers.edu/">WINLAB, Rutgers University</a> and <a href="https://www.stevens.edu/schaefer-school-engineering-science/departments/electrical-computer-engineering">Stevens Institute of Technology</a> with MS in Electrical and Computer Engineering. I got my BS in <a href="https://www.dlmu.edu.cn/">Dalian Maritime University</a>. I also interned at <a href="https://www.aerodefense.tech/">AeroDefense</a> in 2018 Spring. Outside research, I am an amateur table tennis player.
