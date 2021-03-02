@@ -47,7 +47,7 @@ Computer Networks
 * [Poster: Inaudible High-throughput Communication Through Acoustic Signals](https://dl.acm.org/doi/10.1145/3300061.3343405)    
 **Y. Bai**, J. Liu, Y. Chen, L. Lu, J. Yu  
 ACM MobiCom 2019  
-<span style="color:blue">Best poster runner-up award, student research competition winner</span> 
+<span style="color:blue">:star:Best poster runner-up award, student research competition winner</span> 
 
 
 * [Demo: Monitoring Movement Dynamics of Robot Cars and Drones Using Smartphone’s Built-in Sensors](https://ieeexplore.ieee.org/document/8935708)   
