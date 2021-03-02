@@ -48,6 +48,8 @@ contact information:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+- Email: yangbai8@umd.edu
+- Office: IRB 2116
 - icon: envelope
   icon_pack: fas
   link: mailto:yangbai8@umd.edu
