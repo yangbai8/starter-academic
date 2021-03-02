@@ -7,7 +7,7 @@ avatar_filename: avatar.png
 superuser: true
 
 # Role/position/tagline
-role: PhD student at UMD
+role: yangbai8@umd.edu
 
 # Organizations/Affiliations to show in About widget
 organizations:
