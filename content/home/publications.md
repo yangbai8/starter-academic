@@ -34,8 +34,8 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-* [Owlet: Enabling Spatial Information in Ubiquitous Acoustic Devices]() 
-N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
+* Owlet: Enabling Spatial Information in Ubiquitous Acoustic Devices  
+ N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
 ACM MobiSys 2021 
 
 * [BatComm: Enabling Inaudible Acoustic Communication with High-throughpput for Mobile Devices](https://dl.acm.org/doi/10.1145/3384419.3430773)  
@@ -47,8 +47,8 @@ ACM SenSys 2020
 **Y. Bai**, Li Lu, J. Cheng, J. Liu, Y. Chen, J. Yu  
 Computer Networks
 
-* [Demo: Microstructure-guided Spatial Sensing for Low-power IoT]() 
-N. Garg, **Y. Bai (Co-primary author)**, N. Roy 
+* Demo: Microstructure-guided Spatial Sensing for Low-power IoT    
+ N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
 ACM MobiSys 2021 
 
 * [Poster: Inaudible High-throughput Communication Through Acoustic Signals](https://dl.acm.org/doi/10.1145/3300061.3343405)    
