@@ -38,6 +38,10 @@ design:
  N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
 ACM MobiSys 2021 
 
+* Demo: Microstructure-guided Spatial Sensing for Low-power IoT    
+ N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
+ACM MobiSys 2021 
+
 * [BatComm: Enabling Inaudible Acoustic Communication with High-throughpput for Mobile Devices](https://dl.acm.org/doi/10.1145/3384419.3430773)  
 **Y. Bai**, J. Liu, L. Lu, Y. Yang, Y. Chen, J. Yu  
 ACM SenSys 2020
@@ -46,10 +50,6 @@ ACM SenSys 2020
 * [Acoustic-based Sensing and Applications: A Survey](https://www.sciencedirect.com/science/article/abs/pii/S1389128620311282)    
 **Y. Bai**, Li Lu, J. Cheng, J. Liu, Y. Chen, J. Yu  
 Computer Networks
-
-* Demo: Microstructure-guided Spatial Sensing for Low-power IoT    
- N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
-ACM MobiSys 2021 
 
 * [Poster: Inaudible High-throughput Communication Through Acoustic Signals](https://dl.acm.org/doi/10.1145/3300061.3343405)    
 **Y. Bai**, J. Liu, Y. Chen, L. Lu, J. Yu  
