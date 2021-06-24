@@ -34,11 +34,11 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-* Owlet: Enabling Spatial Information in Ubiquitous Acoustic Devices  
+* [Owlet: Enabling Spatial Information in Ubiquitous Acoustic Devices](https://dl.acm.org/doi/10.1145/3458864.3467880)  
  N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
 ACM MobiSys 2021 
 
-* Demo: Microstructure-guided Spatial Sensing for Low-power IoT    
+* [Demo: Microstructure-guided Spatial Sensing for Low-power IoT](https://dl.acm.org/doi/10.1145/3458864.3466906)    
  N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
 ACM MobiSys 2021 
 
