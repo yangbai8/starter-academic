@@ -41,6 +41,7 @@ ACM MobiSys 2021
 * [Demo: Microstructure-guided Spatial Sensing for Low-power IoT](https://dl.acm.org/doi/10.1145/3458864.3466906)    
  N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
 ACM MobiSys 2021 
+<span style="color:blue">:star:Best demo award</span> 
 
 * [BatComm: Enabling Inaudible Acoustic Communication with High-throughpput for Mobile Devices](https://dl.acm.org/doi/10.1145/3384419.3430773)  
 **Y. Bai**, J. Liu, L. Lu, Y. Yang, Y. Chen, J. Yu  
