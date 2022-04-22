@@ -34,8 +34,12 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+* SPiDR: Ultra-low-power Acoustic Spatial Sensing for Micro-robot Navigation (Conditionally accepted)  
+**Y. Bai (Co-primary author)**, N. Garg (Co-primary author), N. Roy  
+ACM MobiSys 2022
+
 * [Owlet: Enabling Spatial Information in Ubiquitous Acoustic Devices](https://dl.acm.org/doi/10.1145/3458864.3467880)  
- N. Garg, **Y. Bai (Co-primary author)**, N. Roy  
+ N. Garg (Co-primary author), **Y. Bai (Co-primary author)**, N. Roy  
 ACM MobiSys 2021 
 
 * [Demo: Microstructure-guided Spatial Sensing for Low-power IoT](https://dl.acm.org/doi/10.1145/3458864.3466906)    
