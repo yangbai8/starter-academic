@@ -39,7 +39,7 @@ design:
 ACM MobiSys 2022
 
 * VoiceFind: Noise-Resilient Speech Recovery in Commodity Headphones   
-I. Shahid, **Y. Bai**, N. Garg (Co-primary author), N. Roy
+I. Shahid, **Y. Bai**, N. Garg, N. Roy
 IASA workshop co-located with ACM MobiSys 2022
 
 * Poster: Ultra-low-power Acoustic Imaging    
