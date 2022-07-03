@@ -34,15 +34,16 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-* [SPiDR: Ultra-low-power Acoustic Spatial Sensing for Micro-robot Navigation]()  
+* [SPiDR: Ultra-low-power Acoustic Spatial Sensing for Micro-robot Navigation](https://dl.acm.org/doi/abs/10.1145/3498361.3539775)  
 **Y. Bai (Co-primary author)**, N. Garg (Co-primary author), N. Roy   
-ACM MobiSys 2022
+ACM MobiSys 2022  
+<span style="color:blue">:star:Best paper award</span> 
 
-* [VoiceFind: Noise-Resilient Speech Recovery in Commodity Headphones]()   
+* [VoiceFind: Noise-Resilient Speech Recovery in Commodity Headphones](https://dl.acm.org/doi/abs/10.1145/3539490.3539600)   
 I. Shahid, **Y. Bai**, N. Garg, N. Roy  
 IASA workshop co-located with ACM MobiSys 2022
 
-* [Poster: Ultra-low-power Acoustic Imaging]()    
+* [Poster: Ultra-low-power Acoustic Imaging](https://dl.acm.org/doi/abs/10.1145/3498361.3538765)    
 **Y. Bai (Co-primary author)**, N. Garg (Co-primary author), N. Roy  
 ACM MobiSys 2022
 
