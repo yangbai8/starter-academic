@@ -46,7 +46,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-*[**Organized panel: Diversity and Inclusion: What? Why? How? at HotMobile 2023**](https://twitter.com/ACMHotMobile/status/1628861209557753856)
+*[**Organized panel: Diversity and Inclusion: What? Why? How? at HotMobile 2023**](https://twitter.com/ACMHotMobile/status/1628861209557753856)       
 *Reviewer of The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)          
 *Shadow Technical Program Committee of ACM SenSys 2022           
 *Reviewer of IEEE Transactions on Mobile Computing            
