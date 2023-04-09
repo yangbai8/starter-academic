@@ -49,7 +49,7 @@ design:
 *[04/2023] SPiDR got ACM SIGMOBILE Research Highlight.          
 *[03/2023] I will join Apple Inc as a Software Dev Eng Intern during Summer 2023.       
 *[02/2023] I organized a panel "Diversity and Inclusion: What? Why? How?" at ACM HotMobile 2023.    
-*[07/2022] SPiDR got Best Paper Award at ACM MobiSys 2022.
+*[07/2022] SPiDR got Best Paper Award at ACM MobiSys 2022.         
 *[07/2021] Owlet got Best Demo Award at ACM MobiSys 2021.
 
 
