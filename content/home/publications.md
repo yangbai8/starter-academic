@@ -58,6 +58,10 @@ ACM SenSys 2020
 Computer Networks
 
 ## Posters and demos
+* [Poster: Natural Voice Interface for the Next Generation of Smart Spaces](https://dl.acm.org/doi/abs/10.1145/3572864.3581587)    
+**Y. Bai**, N. Garg, H. Takawale, A. Das, N. Roy
+ACM HotMobile 2023
+
 * [Poster: Ultra-low-power Acoustic Imaging](https://dl.acm.org/doi/abs/10.1145/3498361.3538765)    
 **Y. Bai (Co-primary author)**, N. Garg (Co-primary author), N. Roy  
 ACM MobiSys 2022
