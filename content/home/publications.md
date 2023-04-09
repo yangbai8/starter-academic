@@ -39,6 +39,7 @@ design:
 **Y. Bai (Co-primary author)**, N. Garg (Co-primary author), N. Roy   
 ACM MobiSys 2022  
 <span style="color:blue">:star:Best paper award</span> 
+<span style="color:blue">:star:SIGMOBILE Research Highlight</span> 
 
 * [VoiceFind: Noise-Resilient Speech Recovery in Commodity Headphones](https://dl.acm.org/doi/abs/10.1145/3539490.3539600)   
 I. Shahid, **Y. Bai**, N. Garg, N. Roy  
