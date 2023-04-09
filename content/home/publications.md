@@ -35,6 +35,12 @@ design:
   view: 4
 ---
 ## Conference and journal papers
+
+
+* [Structure Assisted Spectrum Sensing for Low-power Acoustic Event Detection]()  
+N. Garg, H. Takawale, **Y. Bai**, I. Shahid, N. Roy
+IASA workshop co-located with CPS IoT Week 2023  
+
 * [SPiDR: Ultra-low-power Acoustic Spatial Sensing for Micro-robot Navigation](https://dl.acm.org/doi/abs/10.1145/3498361.3539775)  
 **Y. Bai (Co-primary author)**, N. Garg (Co-primary author), N. Roy   
 ACM MobiSys 2022  
