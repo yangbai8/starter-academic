@@ -46,7 +46,7 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-**Undergraduate-level Courses**
+**Undergraduate-level Courses**       
 *(Rutgers) Fish Bowl Tutor, Fall 2020     
 *(UMD) Web Application Development with Javascript, TA, Fall 2022 & Spring 2023     
 *(UMD) Object-Oriented Programming I, TA, Fall 2021     
@@ -54,11 +54,11 @@ design:
 *(Rutgers) Computing Principles of Mobile Embedded Systems, TA, Fall 2019      
 *(Rutgers) Digital System Design, TA, Fall 2018     
 
-**Graduate-level Courses**
+**Graduate-level Courses**        
 *(Stevens) Data Structures & Algorithms, Peer Tutor, Fall 2017 & Spring 2018      
 *(Stevens) Engineering Programming: Java, Peer Tutor, Fall 2017 & Spring 2018       
 *(Stevens) Engineering Programming: C++, Peer Tutor, Fall 2017 & Spring 2018      
 
-**Undergraduate Mentoring**
+**Undergraduate Mentoring**         
 *Mentored 6 undergraduate students in UMD CS Bitcamp 2021       
 *Worked as a Fish Bowl Tutor at Rutgers ECE department in Fall 2020
