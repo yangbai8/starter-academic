@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 100
 
 title: Activities
 subtitle: ''
@@ -46,6 +46,6 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
-**Organized panel: Diversity and Inclusion: What? Why? How? at HotMobile 2023**
+**Organized panel: Diversity and Inclusion: What? Why? How? at HotMobile 2023** ![](panel.jpg)
 
 
