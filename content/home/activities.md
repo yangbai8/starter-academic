@@ -47,7 +47,7 @@ design:
   flip_alt_rows: false
 ---
 *[**Organized panel: Diversity and Inclusion: What? Why? How? at HotMobile 2023**](https://twitter.com/ACMHotMobile/status/1628861209557753856)   
-*[**Organized panel: How to Prepare for Academia and Industry Career?**](https://www.sigmobile.org/mobisys/2021/flyer_N2Women_Mobisys21.pdf)   
+*[**Organized panel: How to Prepare for Academia and Industry Career? at MobiSys 2021**](https://www.sigmobile.org/mobisys/2021/flyer_N2Women_Mobisys21.pdf)   
 *Technical Program Committee at ALLSENSORS 2024     
 *Technical Program Committee at IoTAI 2024    
 *Shadow Technical Program Committee of ACM SenSys 2022                  
