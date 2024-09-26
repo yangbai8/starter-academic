@@ -46,6 +46,8 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+*[09/2024] Harshvardhan Takawale is going to present Scribe at UbiComp 2024.     
+*[08/2024] Finished my second internship at Apple Inc, working on LLM-powered multi-modal perception.     
 *[04/2023] SPiDR got ACM SIGMOBILE Research Highlight.          
 *[03/2023] I will join Apple Inc as a Software Dev Eng Intern during Summer 2023.       
 *[02/2023] I co-organized a panel "Diversity and Inclusion: What? Why? How?" at ACM HotMobile 2023.    
