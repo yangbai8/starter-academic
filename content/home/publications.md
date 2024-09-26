@@ -37,7 +37,7 @@ design:
 ## Conference and journal papers
 
 * [Scribe: Simultaneous Voice and Handwriting Interface](https://dl.acm.org/doi/abs/10.1145/3631411)      
-Y. Bai, I. Shahid, H. Takawale, N. Roy       
+**Y. Bai**, I. Shahid, H. Takawale, N. Roy       
 IMWUT/UbiComp 2024
 
 * [Structure Assisted Spectrum Sensing for Low-power Acoustic Event Detection]()  
