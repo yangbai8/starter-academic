@@ -47,9 +47,10 @@ design:
   flip_alt_rows: false
 ---
 **Undergraduate-level Courses**       
-*(Rutgers) Fish Bowl Tutor, Fall 2020     
+*(UMD) Computer Networks, TA, Fall 2024     
 *(UMD) Web Application Development with Javascript, TA, Fall 2022 & Spring 2023     
-*(UMD) Object-Oriented Programming I, TA, Fall 2021     
+*(UMD) Object-Oriented Programming I, TA, Fall 2021      
+*(Rutgers) Fish Bowl Tutor, Fall 2020    
 *(Rutgers) Intro to Computer Systems, TA, Spring 2019 & Spring 2020     
 *(Rutgers) Computing Principles of Mobile Embedded Systems, TA, Fall 2019      
 *(Rutgers) Digital System Design, TA, Fall 2018     
