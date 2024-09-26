@@ -51,9 +51,9 @@ design:
 *Shadow Technical Program Committee of ACM SenSys 2022           
 *Reviewer of IEEE Transactions on Mobile Computing            
 *Reviewer of AIChallenge IoT 2022
-*Artifact Evaluation Committee at MobiSys 2022
-*Reviewer of Transactions on Network Science and Engineering
-*Reviewer of IEEE Signal Processing Letters
+*Artifact Evaluation Committee at MobiSys 2022      
+*Reviewer of Transactions on Network Science and Engineering       
+*Reviewer of IEEE Signal Processing Letters        
 
 
 
