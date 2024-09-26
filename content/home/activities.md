@@ -51,7 +51,7 @@ design:
 *Technical Program Committee at ALLSENSORS 2024     
 *Technical Program Committee at IoTAI 2024    
 *Shadow Technical Program Committee of ACM SenSys 2022                  
-*Reviewer of AIChallenge IoT 2022
+*Reviewer of AIChallenge IoT 2022     
 *Artifact Evaluation Committee at MobiSys 2022              
 *Reviewer of The Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)       
 *Reviewer of IEEE Transactions on Mobile Computing         
